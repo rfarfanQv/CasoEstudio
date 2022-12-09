@@ -1,3 +1,5 @@
 body {
-    background-image: linear-gradient(to top, rgba(119,0,255,1) 39%, rgba(0,212,255,1) 100%);
+
+    background-image: linear-gradient(to top, rgb(255, 0, 43) 39%, rgb(255, 0, 0) 100%);
+
 }
